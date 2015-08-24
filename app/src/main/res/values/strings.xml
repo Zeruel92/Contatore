@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contatore</string>
+    <string name="action_settings"></string>
+    <string name="title_activity_chooser">Contatore</string>
+    <string name="ygo">8000</string>
+    <string name="fow">40</string>
+    <string name="magic">20</string>
+</resources>
